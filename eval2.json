@@ -1,0 +1,17 @@
+[
+    {
+        "false": "selected",
+        "a": "name",
+        "1": "id"
+    },
+    {
+        "true": "selected",
+        "b": "name",
+        "2": "id"
+    },
+    {
+        "true": "selected",
+        "c": "name",
+        "3": "id"
+    }
+]
