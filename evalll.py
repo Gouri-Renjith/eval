@@ -18,3 +18,4 @@ for item in data:
 
 with open(filename,"w") as f:
     json.dump(new_data,f,indent=4)
+print(new_data)
